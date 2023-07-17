@@ -1,0 +1,21 @@
+#fundo {
+    color: rgb(168, 122, 255);
+    background: rgb(4, 3, 76);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.objetosTreinados,
+#nomeObjeto,
+#precisaoModelo {
+    color: rgb(255, 255, 255);
+}
